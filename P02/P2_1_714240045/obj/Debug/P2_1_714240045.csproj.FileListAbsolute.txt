@@ -1,0 +1,8 @@
+C:\Users\LABKOM-VOKASI\source\repos\le\tugas\P2_1_714240045\bin\Debug\P2_1_714240045.exe.config
+C:\Users\LABKOM-VOKASI\source\repos\le\tugas\P2_1_714240045\bin\Debug\P2_1_714240045.exe
+C:\Users\LABKOM-VOKASI\source\repos\le\tugas\P2_1_714240045\bin\Debug\P2_1_714240045.pdb
+C:\Users\LABKOM-VOKASI\source\repos\le\tugas\P2_1_714240045\obj\Debug\P2_1_714240045.csproj.AssemblyReference.cache
+C:\Users\LABKOM-VOKASI\source\repos\le\tugas\P2_1_714240045\obj\Debug\P2_1_714240045.csproj.CoreCompileInputs.cache
+C:\Users\LABKOM-VOKASI\source\repos\le\tugas\P2_1_714240045\obj\Debug\P2_1_714240045.exe
+C:\Users\LABKOM-VOKASI\source\repos\le\tugas\P2_1_714240045\obj\Debug\P2_1_714240045.pdb
+C:\Users\LABKOM-VOKASI\source\repos\le\tugas\P2_1_714240045\obj\Debug\P2_1_714240045.exe.config
