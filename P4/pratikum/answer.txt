@@ -1,0 +1,36 @@
+BAGIAN 1
+14. Jelaskan mengapa pesan kesalahan tersebut muncul!
+    dikarenakan pada file Product_714240045 dideklarisakn protected yang tidak dapat diakses kecuali
+    kelas itu sendiri atau keturunannya bisa di lihat di bagian ini:
+        protected string myType = "Book";
+
+19. Perhatikan hasil yang muncul dilayar, kenapa bisa seperti itu?
+    karena pada Console.WriteLine(myProduct.MyType); kita sama sekali tidak memberikan nilai pada 
+    myProduct.MyType nya yang ketika kita merunning codenya membuat Console.WriteLine menjalankan
+    kode tanpa ada nilai sama sekali atau null.
+
+24. Jelaskan mengapa yang muncul dilayar adalah kata tersebut!
+    Pada saat kita menuliskan kode myProduct.MyType = "DVD"; secara tidak langsung kita telah memberikan
+    nilai pada myProduct.MyType dan ketika di running Console.WriteLine akan memanggil myProduct.MyType
+    yang sekarang memiliki nilai DVD yang akan muncul pada layar tersebut.
+
+BAGIAN 2
+8.  Jelaskan mengapa tipe dan title dari buku tersebut tidak muncul! Apakah istilah dalam
+    konsep OOP yang mendefinisikan fenomena seperti ini?
+    karena konsruktur kelas Book_714240045 (kelas anak) tidak pernah memberikan nilai tersebut ke 
+    kelas Product_714240045 (kelas induk)
+    -Inheritance (Pewarisan): Ini adalah konsep dasarnya, di mana kelas Book (anak) mewarisi properti (MyType, MyTitle) dan metode dari kelas Product (induk).
+    -Base Class Constructor (Konstruktor Kelas Basis/Induk): Ini adalah istilah kunci untuk masalah yang terjadi. Saat Anda membuat objek dari kelas anak (Book), konstruktor kelas induk (Product) juga harus dipanggil untuk menginisialisasi properti milik induk.
+
+12. Perhatikan hasil yang muncul dilayar, jelaskan mengapa saat ini tipe dan judul buku
+    tampil pada output!
+    karena kita telah menambahkan : base(type, title) memberi tahu C# untuk "Sebelum menjalankan kode di dalam konstruktor Book ini, jalankan terlebih dahulu konstruktor di kelas basis (Product) dan berikan nilai type dan title ini kepadanya."
+    Dengan cara ini, konstruktor Product akan mengurus MyType dan MyTitle, sementara konstruktor Book mengurus pageCount.
+
+19. Mengapa objek product2 tidak dibuat seperti product1 atau seperti gambar yang
+    ditandai di bawah?
+    karena pada product1(Book_714240045) kita telah memberikan 3 parameter yaitu string,title dan pageaccount akan tetapi 
+    yang dideklarisakn hanyalah pageaccount sedangkan pada product2(DVD_714240045) kita memberikan 2 parameter yaitu title
+    dan duration itu didefinisikan semuanya.Tapi, pada product1 kita memerlukan base()untuk menerima Title dan type
+    dan diterukan ke konstruktor induk (base) untuk di inisialisasi sedangkan untuk product2 dibuat dan di inisialisasi langsung dalam methodnya
+    sehingga tidak memerlukan base() untuk melakukan konstruktor.
