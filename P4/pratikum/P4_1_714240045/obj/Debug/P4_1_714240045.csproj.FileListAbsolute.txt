@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\P4_1_714240045\bin\Debug\P4_1_714240045.exe.config
+C:\Users\ACER\source\repos\P4_1_714240045\bin\Debug\P4_1_714240045.exe
+C:\Users\ACER\source\repos\P4_1_714240045\bin\Debug\P4_1_714240045.pdb
+C:\Users\ACER\source\repos\P4_1_714240045\obj\Debug\P4_1_714240045.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\P4_1_714240045\obj\Debug\P4_1_714240045.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\P4_1_714240045\obj\Debug\P4_1_714240045.exe
+C:\Users\ACER\source\repos\P4_1_714240045\obj\Debug\P4_1_714240045.pdb
