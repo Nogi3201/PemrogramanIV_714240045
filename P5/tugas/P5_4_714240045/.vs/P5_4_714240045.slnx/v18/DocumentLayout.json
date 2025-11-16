@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\P5_4_714240045\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E70BD686-CA15-4C24-81B7-A617DADF3068}|P5_4_714240045\\P5_4_714240045.csproj|C:\\Users\\ACER\\source\\repos\\P5_4_714240045\\p5_4_714240045\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E70BD686-CA15-4C24-81B7-A617DADF3068}|P5_4_714240045\\P5_4_714240045.csproj|c:\\users\\acer\\source\\repos\\p5_4_714240045\\p5_4_714240045\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E70BD686-CA15-4C24-81B7-A617DADF3068}|P5_4_714240045\\P5_4_714240045.csproj|solutionrelative:p5_4_714240045\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E70BD686-CA15-4C24-81B7-A617DADF3068}|P5_4_714240045\\P5_4_714240045.csproj|c:\\users\\acer\\source\\repos\\p5_4_714240045\\p5_4_714240045\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E70BD686-CA15-4C24-81B7-A617DADF3068}|P5_4_714240045\\P5_4_714240045.csproj|C:\\Users\\ACER\\source\\repos\\P5_4_714240045\\p5_4_714240045\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E70BD686-CA15-4C24-81B7-A617DADF3068}|P5_4_714240045\\P5_4_714240045.csproj|solutionrelative:p5_4_714240045\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,9 +30,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\P5_4_714240045\\P5_4_714240045\\Form1.cs",
               "RelativeDocumentMoniker": "P5_4_714240045\\Form1.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\P5_4_714240045\\P5_4_714240045\\Form1.cs*",
-              "RelativeToolTip": "P5_4_714240045\\Form1.cs*",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAiwHkAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\P5_4_714240045\\P5_4_714240045\\Form1.cs",
+              "RelativeToolTip": "P5_4_714240045\\Form1.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAA/wFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T14:56:43.495Z",
               "EditorCaption": ""
@@ -43,11 +43,10 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\P5_4_714240045\\P5_4_714240045\\Form1.cs",
               "RelativeDocumentMoniker": "P5_4_714240045\\Form1.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\P5_4_714240045\\P5_4_714240045\\Form1.cs [Design]*",
-              "RelativeToolTip": "P5_4_714240045\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\P5_4_714240045\\P5_4_714240045\\Form1.cs [Design]",
+              "RelativeToolTip": "P5_4_714240045\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T14:11:27.181Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-16T14:11:27.181Z"
             }
           ]
         }
