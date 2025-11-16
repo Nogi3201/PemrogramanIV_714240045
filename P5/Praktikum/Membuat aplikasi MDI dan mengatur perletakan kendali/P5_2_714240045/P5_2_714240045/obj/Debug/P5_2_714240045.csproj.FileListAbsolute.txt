@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\P5_2_714240045\P5_2_714240045\bin\Debug\P5_2_714240045.exe.config
+C:\Users\ACER\source\repos\P5_2_714240045\P5_2_714240045\bin\Debug\P5_2_714240045.exe
+C:\Users\ACER\source\repos\P5_2_714240045\P5_2_714240045\bin\Debug\P5_2_714240045.pdb
+C:\Users\ACER\source\repos\P5_2_714240045\P5_2_714240045\obj\Debug\P5_2_714240045.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\P5_2_714240045\P5_2_714240045\obj\Debug\P5_2_714240045.ChildForm.resources
+C:\Users\ACER\source\repos\P5_2_714240045\P5_2_714240045\obj\Debug\P5_2_714240045.ParentForm.resources
+C:\Users\ACER\source\repos\P5_2_714240045\P5_2_714240045\obj\Debug\P5_2_714240045.Properties.Resources.resources
+C:\Users\ACER\source\repos\P5_2_714240045\P5_2_714240045\obj\Debug\P5_2_714240045.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\P5_2_714240045\P5_2_714240045\obj\Debug\P5_2_714240045.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\P5_2_714240045\P5_2_714240045\obj\Debug\P5_2_714240045.exe
+C:\Users\ACER\source\repos\P5_2_714240045\P5_2_714240045\obj\Debug\P5_2_714240045.pdb
