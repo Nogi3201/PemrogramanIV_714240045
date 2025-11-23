@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\P6_4_714240045\P6_4_714240045\bin\Debug\P6_4_714240045.exe.config
+C:\Users\ACER\source\repos\P6_4_714240045\P6_4_714240045\bin\Debug\P6_4_714240045.exe
+C:\Users\ACER\source\repos\P6_4_714240045\P6_4_714240045\bin\Debug\P6_4_714240045.pdb
+C:\Users\ACER\source\repos\P6_4_714240045\P6_4_714240045\obj\Debug\P6_4_714240045.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\P6_4_714240045\P6_4_714240045\obj\Debug\P6_4_714240045.Form1.resources
+C:\Users\ACER\source\repos\P6_4_714240045\P6_4_714240045\obj\Debug\P6_4_714240045.Properties.Resources.resources
+C:\Users\ACER\source\repos\P6_4_714240045\P6_4_714240045\obj\Debug\P6_4_714240045.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\P6_4_714240045\P6_4_714240045\obj\Debug\P6_4_714240045.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\P6_4_714240045\P6_4_714240045\obj\Debug\P6_4_714240045.exe
+C:\Users\ACER\source\repos\P6_4_714240045\P6_4_714240045\obj\Debug\P6_4_714240045.pdb
